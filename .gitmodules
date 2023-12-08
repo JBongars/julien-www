@@ -1,0 +1,6 @@
+[submodule "src/src/themes/spectral"]
+	path = src/src/themes/spectral
+	url = https://github.com/sbruder/spectral.git
+[submodule "src/themes/spectral"]
+	path = src/themes/spectral
+	url = https://github.com/sbruder/spectral.git
